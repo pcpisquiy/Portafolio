@@ -1,0 +1,19 @@
+{
+  "name": "portafolio_pcpp",
+  "version": "1.0.0",
+  "description": "Portafolio de Pablo César Pisquiy Pacajá",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcpisquiy/Portafolio.git"
+  },
+  "author": "PCPP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pcpisquiy/Portafolio/issues"
+  },
+  "homepage": "https://github.com/pcpisquiy/Portafolio#readme"
+}
